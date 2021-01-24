@@ -18,6 +18,7 @@
 * The python hook takes the user uploaded tensorflow model and retrieves the internal state of each layer for each input then encodes this data in JSON
 * The convolutional layer activations and a sampling of the dense layer connections are read from the JSON encoding and rendered in 3D.
 
+  ![](https://github.com/PhillipMerritt/PhillipMerritt/blob/main/images/nnViz_demo_edited.gif)
 
 ## [AlphaDomino](https://github.com/PhillipMerritt/Alpha_Domino)
 * Working implementation of the AlphaZero reinforcement learning algorithm in python
